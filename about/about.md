@@ -20,12 +20,11 @@ No cenário atual, a maioria dos traders perde a consistência não por falta de
 
 Mais do que um simples diário de operações, a **BeTrader** é um ecossistema desenhado para transformar a sua relação com o mercado. Nossa tecnologia foca em quatro pilares fundamentais:
 
-| **Pilar** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |                  **Objetivo**                    |
-| :----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| **Registro Estruturado** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                             | Organização impecável de cada operação.          |
-| **Análise de Performance** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                                         | Visão real e nua do seu desempenho.              |
-| **Padrões Comportamentais** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                                               | Identificação do "porquê" por trás das decisões. |
-| **Evolução Contínua** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                           | Ajustes baseados em dados, não em palpites.      |
+|             *Pilar**               |                   **Objetivo**                        |
+| **Registro Estruturado:&nbsp;**    | &nbsp;Organização impecável de cada operação.         |
+| **Análise de Performance:&nbsp;**  | &nbsp;Visão real e nua do seu desempenho.             |
+| **Padrões Comportamentais:&nbsp;** | &nbsp;Identificação do "porquê" por trás das decisões.|
+| **Evolução Contínua:&nbsp;**       | &nbsp;Ajustes baseados em dados, não em palpites.     |
 
 ---
 
