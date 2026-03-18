@@ -1,10 +1,10 @@
-# 🚀 BEvion: Evolução Comportamental Aplicada ao Trading
+# BEvion: Evolução Comportamental Aplicada ao Trading
 
 A **BEvion** não nasceu para ser apenas mais uma empresa no setor financeiro. Ela nasceu com um propósito disruptivo: resolver o maior gargalo do trader moderno. O problema raramente é a estratégia; o verdadeiro vilão é o **comportamento**.
 
 ---
 
-## 🧠 O Diagnóstico do Mercado
+## O Diagnóstico do Mercado
 
 No cenário atual, a maioria dos traders perde a consistência não por falta de conhecimento técnico, mas por:
 
@@ -16,7 +16,7 @@ No cenário atual, a maioria dos traders perde a consistência não por falta de
 
 ---
 
-## 🛠 A Solução: Plataforma BeTrader
+## A Solução: Plataforma BeTrader
 
 Mais do que um simples diário de operações, a **BeTrader** é um ecossistema desenhado para transformar a sua relação com o mercado. Nossa tecnologia foca em quatro pilares fundamentais:
 
@@ -29,7 +29,7 @@ Mais do que um simples diário de operações, a **BeTrader** é um ecossistema 
 
 ---
 
-## 🎯 Nossa Visão de Futuro
+## Nossa Visão de Futuro
 
 Acreditamos que o mercado não recompensa o acúmulo de teoria, mas sim a excelência na **execução consistente**. Estamos construindo um ambiente onde o trader deixa de ser refém da motivação passageira e passa a operar com **método, clareza e disciplina**.
 
@@ -37,4 +37,4 @@ A BeTrader é apenas o ponto de partida para uma nova categoria global: **Tecnol
 
 ---
 
-### **BE consistent. BE growing. BEvion.** [cite: 19]
+### **BE consistent. BE growing. BEvion.**
