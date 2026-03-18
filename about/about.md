@@ -22,10 +22,10 @@ Mais do que um simples diário de operações, a **BeTrader** é um ecossistema 
 
 |             **Pilar**               |                   **Objetivo**                                          |
 | ----------------------------------- | ----------------------------------------------------------------------- |
-| **Registro Estruturado:&nbsp;**     | &nbsp;&nbsp;&nbsp;&nbsp;Organização impecável de cada operação.         |
-| **Análise de Performance:&nbsp;**   | &nbsp;&nbsp;&nbsp;&nbsp;Visão real e nua do seu desempenho.             |
-| **Padrões Comportamentais:&nbsp;**  | &nbsp;&nbsp;&nbsp;&nbsp;Identificação do "porquê" por trás das decisões.|
-| **Evolução Contínua:&nbsp;**        | &nbsp;&nbsp;&nbsp;&nbsp;Ajustes baseados em dados, não em palpites.     |
+| **Registro Estruturado:&nbsp;**     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organização impecável de cada operação.         |
+| **Análise de Performance:&nbsp;**   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visão real e nua do seu desempenho.             |
+| **Padrões Comportamentais:&nbsp;**  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identificação do "porquê" por trás das decisões.|
+| **Evolução Contínua:&nbsp;**        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ajustes baseados em dados, não em palpites.     |
 
 ---
 
